@@ -88,4 +88,5 @@ Dependências dos pacotes que devem ficar em package.json:
 ## Créditos
 
 Todas as imagens usadas na aplicação são pertencentes a freepik.com
+
 Projeto baseado no projeto Code3rCursos = https://github.com/cod3rcursos/meat-app-starter.git
